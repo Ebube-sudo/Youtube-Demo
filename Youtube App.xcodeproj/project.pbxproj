@@ -16,6 +16,7 @@
 		3304DE792501A24F009871BB /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304DE782501A24F009871BB /* Constants.swift */; };
 		3304DE7B2501A5AE009871BB /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304DE7A2501A5AE009871BB /* Video.swift */; };
 		3304DE7D2501A635009871BB /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304DE7C2501A635009871BB /* Model.swift */; };
+		3304DE7F2501EB35009871BB /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3304DE7E2501EB35009871BB /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		3304DE782501A24F009871BB /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		3304DE7A2501A5AE009871BB /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		3304DE7C2501A635009871BB /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		3304DE7E2501EB35009871BB /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				3304DE6D2501904D009871BB /* Assets.xcassets */,
 				3304DE6F2501904D009871BB /* LaunchScreen.storyboard */,
 				3304DE722501904D009871BB /* Info.plist */,
+				3304DE7E2501EB35009871BB /* Response.swift */,
 			);
 			path = "Youtube App";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				3304DE7D2501A635009871BB /* Model.swift in Sources */,
 				3304DE792501A24F009871BB /* Constants.swift in Sources */,
 				3304DE7B2501A5AE009871BB /* Video.swift in Sources */,
+				3304DE7F2501EB35009871BB /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
